@@ -1,0 +1,21 @@
+h1{
+    background-color: royalblue;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+h2, ul, p, body{
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+td{
+    text-decoration: lightcyan;
+}
+
+img {
+position: marker;
+    class: center;
+    vertical-align: middle
+
+}
